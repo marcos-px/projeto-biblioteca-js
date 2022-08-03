@@ -1,0 +1,23 @@
+{
+  "name": "projeto-biblioteca",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">Projeto solicitado no XP 44 da <a href=\"https://gama.academy\"> Gama Academy</a>.</p>\r <hr>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos-px/projeto-biblioteca-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcos-px/projeto-biblioteca-js/issues"
+  },
+  "homepage": "https://github.com/marcos-px/projeto-biblioteca-js#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
